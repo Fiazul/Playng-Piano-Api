@@ -19,9 +19,6 @@ Welcome to the *"How to Click Keys Like a Pro"* project! Here, we take the sophi
 
 Just modify the `notes_to_play` list and watch as your computer does all the work. If you hear music, you did something right. If not, well, better luck next time!
 
-## Contributing
-
-Feel free to submit *your* best practices on how to completely miss the point of music. We're all about encouraging chaotic creativity here.
 
 ## Disclaimer
 
