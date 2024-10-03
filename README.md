@@ -24,10 +24,6 @@ Just modify the `notes_to_play` list and watch as your computer does all the wor
 
 Feel free to submit *your* best practices on how to completely miss the point of music. We're all about encouraging chaotic creativity here.
 
-## License
-
-This project is licensed under the MIT License. Use it, break it, or just leave it alone. Your call.
-
 ## Disclaimer
 
 This project will not make you a better musician. In fact, it might do the opposite. Use at your own risk! Enjoy the absurdity!
