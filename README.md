@@ -7,7 +7,6 @@ Welcome to the *"How to Click Keys Like a Pro"* project! Here, we take the sophi
 - **Play Like a Master**: Click on keys that sound like music without actually knowing how to play! It's all about that *randomness*.
 - **Select Your Notes**: Want to sound like a confused chicken? Just choose random notes! Who cares about melodies?
 - **Selenium Magic**: Watch in awe as our code opens a web browser and makes it dance to our commands. It’s basically a digital puppet show.
-- **Dynamic Delays**: Want to click faster? Want to click slower? We've got the *power* to change the speed! It’s like controlling a sloth or a cheetah.
 
 ## Getting Started
 
